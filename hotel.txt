@@ -5,8 +5,6 @@ who are you?
 vcv jv bjc kgj 
 Para_boy
 LingOrm
-<<<<<<< HEAD
 abcd
-=======
 mamawin push test
->>>>>>> b9261a423b28380c412bbdb94e0f9ad9455ef008
+
