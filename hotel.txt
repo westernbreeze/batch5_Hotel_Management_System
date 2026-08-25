@@ -2,7 +2,4 @@ Hotel management system
 bla bla bla ...bla bla bla ...
 blah blah ....
 who are you?
-vcv jv bjc kgj 
-Para_boy
-LingOrm
-mamawin push test
+vcv jv bjc kgj mamawin push test
