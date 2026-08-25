@@ -1,0 +1,14 @@
+diff --git a/hotel.txt b/hotel.txt
+index e741453..4c94d41 100644
+--- a/hotel.txt
++++ b/hotel.txt
+@@ -2,4 +2,5 @@ Hotel management system
+ bla bla bla ...bla bla bla ...
+ blah blah ....
+ who are you?
+-vcv jv bjc kgj 
+\ No newline at end of file
++vcv jv bjc kgj 
++Where are you?
+\ No newline at end of file
+who is the best one?
